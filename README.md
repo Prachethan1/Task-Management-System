@@ -128,6 +128,20 @@ Creation of task:
 
 ![create](https://github.com/Prachethan1/Task-Management-System/blob/main/Screenshots/t7.png?raw=true)
 
+### Dependencies
+
+* bcryptjs: For hashing passwords.
+
+* dotenv: For environment variable management.
+
+* express: For building the API.
+
+* jsonwebtoken: For token-based authentication.
+
+* mongoose: For MongoDB interactions.
+
+* morgan: For logging HTTP requests.
+
 
 
 ## Tech Stack
